@@ -1,0 +1,9 @@
+{
+	"name": "vikramdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fe21c3e-5c5f-4ca0-8fa1-411cec7bd21e",
+		"tenantId": "1f506532-c8e3-4ab9-95f3-5c9bd80c71f4"
+	}
+}

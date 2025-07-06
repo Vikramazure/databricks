@@ -1,0 +1,17 @@
+{
+	"name": "shedule_trigger_1",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 1,
+				"startTime": "2025-07-06T04:10:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}

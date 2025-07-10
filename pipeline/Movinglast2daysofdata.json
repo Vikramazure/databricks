@@ -55,7 +55,10 @@
 				"inputs": [
 					{
 						"referenceName": "DelimitedText3",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"container_nme": "input"
+						}
 					}
 				],
 				"outputs": [

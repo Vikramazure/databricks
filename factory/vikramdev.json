@@ -1,5 +1,13 @@
 {
 	"name": "vikramdev",
+	"properties": {
+		"globalParameters": {
+			"table_schema": {
+				"type": "string",
+				"value": "dbo"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",

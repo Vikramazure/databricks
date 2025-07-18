@@ -5,6 +5,10 @@
 			"table_schema": {
 				"type": "string",
 				"value": "dbo"
+			},
+			"table_name": {
+				"type": "string",
+				"value": "employee"
 			}
 		}
 	},
